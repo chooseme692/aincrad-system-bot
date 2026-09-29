@@ -1,0 +1,9 @@
+{
+  "Name": "Aincrad Persistence",
+  "Author": "Aincrad Style",
+  "Version": "0.1.0",
+  "Description": "MMO-style reconnect persistence for Aincrad Style. Restores players to their last safe position without advancing time or triggering sleep.",
+  "UniqueID": "AincradStyle.Persistence",
+  "EntryDll": "AincradPersistence.dll",
+  "MinimumApiVersion": "4.0.0"
+}
