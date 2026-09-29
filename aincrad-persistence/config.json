@@ -1,0 +1,16 @@
+{
+  "Enabled": true,
+  "SnapshotIntervalSeconds": 10,
+  "DiskFlushIntervalSeconds": 30,
+  "RestoreDelayMilliseconds": 1800,
+  "RestoreFacingDirection": true,
+  "RestoreAcrossDifferentDays": true,
+  "FallbackToHomeWhenUnsafe": true,
+  "SkipRestoreDuringEvents": true,
+  "UnsafeLocationPrefixes": [
+    "Temp",
+    "Festival"
+  ],
+  "UnsafeLocationNames": [],
+  "VerboseLogging": false
+}
