@@ -1,0 +1,10 @@
+{
+  "BotBaseUrl": "https://aincrad-system-bot.onrender.com",
+  "BridgeSecret": "CHANGE_THIS_TO_THE_SAME_SECRET_AS_THE_BOT",
+  "GameMasterNames": [
+    "PRECISION"
+  ],
+  "HeartbeatSeconds": 30,
+  "SendSaveNotifications": true,
+  "SendPlayerJoinLeave": true
+}
