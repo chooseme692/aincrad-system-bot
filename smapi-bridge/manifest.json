@@ -1,0 +1,9 @@
+{
+  "Name": "Aincrad System Bridge",
+  "Author": "Aincrad Style",
+  "Version": "0.1.0",
+  "Description": "Sends Stardew server events to the Aincrad Discord bot.",
+  "UniqueID": "AincradStyle.SystemBridge",
+  "EntryDll": "AincradSystemBridge.dll",
+  "MinimumApiVersion": "4.0.0"
+}
