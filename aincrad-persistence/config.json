@@ -1,15 +1,17 @@
 {
   "Enabled": true,
-  "SnapshotIntervalSeconds": 10,
-  "DiskFlushIntervalSeconds": 30,
+  "SnapshotIntervalSeconds": 5,
+  "DiskFlushIntervalSeconds": 20,
   "RestoreDelayMilliseconds": 1800,
   "RestoreFacingDirection": true,
   "RestoreAcrossDifferentDays": true,
-  "FallbackToHomeWhenUnsafe": true,
+  "FallbackToLastSafePosition": true,
   "SkipRestoreDuringEvents": true,
   "UnsafeLocationPrefixes": [
     "Temp",
-    "Festival"
+    "Festival",
+    "UndergroundMine",
+    "VolcanoDungeon"
   ],
   "UnsafeLocationNames": [],
   "VerboseLogging": false
