@@ -12,6 +12,10 @@
       <HintPath>$(GamePath)\StardewModdingAPI.dll</HintPath>
       <Private>false</Private>
     </Reference>
+    <Reference Include="SMAPI.Toolkit.CoreInterfaces">
+      <HintPath>$(GamePath)\SMAPI.Toolkit.CoreInterfaces.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
     <Reference Include="Stardew Valley">
       <HintPath>$(GamePath)\Stardew Valley.dll</HintPath>
       <Private>false</Private>
